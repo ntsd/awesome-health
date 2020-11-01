@@ -1,5 +1,9 @@
 # awesome-health
-My awesome health knowledge and research.
+Awesome health knowledge and research.
+
+## Vitamins
+
+[Listing of vitamins per day](https://www.health.harvard.edu/staying-healthy/listing_of_vitamins)
 
 ## Ergonomics
 
