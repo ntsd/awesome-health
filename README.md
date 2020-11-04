@@ -12,6 +12,8 @@ My awesome health knowledges and researches.
 
 [7 Daily Ways to Protect Your Teeth](https://www.healthline.com/health/dental-and-oral-health/daily-ways-to-protect-your-teeth)
 
+[Manual Tooth Brushing And Flossing Technique](https://www.dentalcare.com/en-us/patient-education/patient-materials/manual-brushing-and-flossing)
+
 [A History and Update of Fluoride Dentifrices - Using Dentifrices as a Delivery System](https://www.dentalcare.com/en-us/professional-education/ce-courses/ce94/using-dentifrices-as-a-delivery-system)
 
 ## Vitamins
