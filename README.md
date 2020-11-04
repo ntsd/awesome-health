@@ -12,6 +12,8 @@ My awesome health knowledges and researches.
 
 [7 Daily Ways to Protect Your Teeth](https://www.healthline.com/health/dental-and-oral-health/daily-ways-to-protect-your-teeth)
 
+[A History and Update of Fluoride Dentifrices - Using Dentifrices as a Delivery System](https://www.dentalcare.com/en-us/professional-education/ce-courses/ce94/using-dentifrices-as-a-delivery-system)
+
 ## Vitamins
 
 [Listing of vitamins per day](https://www.health.harvard.edu/staying-healthy/listing_of_vitamins)
